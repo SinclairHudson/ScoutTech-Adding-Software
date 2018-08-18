@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nSKU\ nTitle\ nUPCEAN\ nSize\ ncolour\ nQuantity\ nParent
+comment0.target=Child(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ Parent)
+comment1.params=nUPC\ nEAN\ Size\ Quantity\ nParent
+comment1.target=boolean\ ErrorCheck(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ Parent)
+numComments=2

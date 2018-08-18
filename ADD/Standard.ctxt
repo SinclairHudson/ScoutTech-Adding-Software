@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nSKU\ nAuctionTitle\ nUPCEAN\ nQuantity\ nUSprice\ nCAprice\ ncost\ nEbayCat\ nweight\ nheight\ nwidth\ nlength\ ndesc\ nblock\ nbrand\ nlabels\ nnewegg\ nStoreCat\ nUSlabels
+comment0.target=Standard(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double,\ int,\ double,\ double,\ double,\ double,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ initfile()
+comment2.params=
+comment2.target=Standard()
+numComments=3

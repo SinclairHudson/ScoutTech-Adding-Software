@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nSKU\ nAuctionTitle\ nUSprice\ nCAprice\ ncost\ nEbayCat\ nweight\ nheight\ nwidth\ nlength\ ndesc\ nblock\ nbrand\ nlabels\ nnewegg\ nStoreCat\ nVariation\ nUSLabels
+comment0.target=Parent(java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ int,\ double,\ double,\ double,\ double,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=Parent()
+comment2.params=
+comment2.target=void\ initfile()
+numComments=3
